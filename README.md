@@ -1,2 +1,8 @@
 # sentiment_analysis_healthcare_reviews
-This is an analysis of healthcare reviews of a hospital  
+problem statement
+
+The objective of this project is to develop a model that can classify sentiments in healthcare reviews.
+
+This involves analyzing text data from healthcare reviews
+
+and determining whether the sentiment expressed in each review is positive, negative, or neutral.
